@@ -5,7 +5,7 @@
 
   <h1>¡Hola! Soy Angel Gonzalez 👋</h1>
 
-  <p><b>Software Developer | Mobile & Backend Engineering | UI & System Automation</b></p>
+  <p><b>Software Developer | Mobile & Backend Engineering | Android Modding & UI Automation</b></p>
 
   <!-- Badges de Lenguajes Principales -->
   <p>
@@ -13,15 +13,16 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Android%20Modding-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Modding">
   </p>
 
-  <!-- Redes Sociales -->
+  <!-- Redes Sociales & Portafolio -->
   <p>
+    <a href="https://" target="_blank">
+      <img src="https://img.shields.io/badge/Portafolio-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio">
+    </a>
     <a href="https://youtube.com/@litdarkrx" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-LitDarkRx-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-    </a>
-    <a href="https://www.linkedin.com/in/angel-gonz%C3%A1lez-942030417" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://t.me/LitDarkRx_Ofc" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-LitDarkRx__Ofc-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
@@ -41,9 +42,9 @@
 
 <div align="center">
   <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=soylitdarkrx&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soylitdarkrx&layout=donut&theme=tokyonight&hide_border=true" alt="Lenguajes" height="175" />
-</p>
+    <img src="https://github-readme-stats.vercel.app/api?username=soylitdarkrx&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas" height="175" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soylitdarkrx&layout=donut&theme=tokyonight&hide_border=true" alt="Lenguajes" height="175" />
+  </p>
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=soylitdarkrx&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
   </p>
@@ -53,10 +54,11 @@
 
 ## 🚀 Sobre mí
 
-* 🔭 **Especialidad:** Desarrollo móvil, integración de scripts y backend orientado al rendimiento.
-* 🛠️ **Enfoque técnico:** Integración Java/Lua, backend y APIs REST en PHP, y desarrollo web con JavaScript.
-* 🎨 **Diseño & UI:** Interfaces limpias, fluidas y minimalistas.
-* 🎯 **Objetivos:** Optimización de código, sistemas de licencias y arquitectura de proyectos.
+* 🔭 **Especialidad:** Desarrollo móvil, modding/adaptación de software, integración de scripts y backend de alto rendimiento.
+* 🛠️ **Enfoque técnico:** Integración Java/Lua, custom overlays para Android, automatización de sistemas, APIs REST en PHP y desarrollo web.
+* ⚙️ **Modding & Reverse Engineering:** Personalización de aplicaciones, hooks, inyección de interfaces dinámicas y manipulación de memoria/runtime.
+* 🎨 **Diseño & UI:** Interfaces limpias, fluidas, minimalistas e intuitivas.
+* 🎯 **Objetivos:** Optimización de código, desarrollo de sistemas de licencias robustos y arquitectura de proyectos escalables.
 
 ---
 
@@ -64,8 +66,9 @@
 
 | Categoría | Herramientas & Tecnologías |
 | :--- | :--- |
-| **Lenguajes** | `PHP` `Java` `Lua` `JavaScript` |
-| **Desarrollo Móvil & UI** | `Android SDK` `Java-Lua Bridge` `Custom Overlays` |
+| **Lenguajes** | `PHP` `Java` `Lua` `JavaScript` `C / C++` |
+| **Desarrollo Móvil & Overlays** | `Android SDK` `Java-Lua Bridge` `Floating Menus` `Custom Overlays` |
+| **Modding & Reverse Engineering** | `IL2CPP Analysis` `Memory Modification` `APK Modding` `Hooks & Automation` |
 | **Backend & Base de Datos** | `PHP (APIs REST)` `MySQL` `SQL` `JSON / Webhooks` |
 | **Frontend & Web** | `JavaScript (ES6+)` `HTML5` `CSS3` |
-| **Herramientas & Entorno** | `Git` `GitHub` `VS Code` `Linux` |
+| **Herramientas & Entorno** | `Git` `GitHub` `VS Code` `Linux` `Termux` |
