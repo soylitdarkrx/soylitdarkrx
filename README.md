@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Imagen de perfil circular -->
-  <img src="https://pin.it/1mrqdVhEe" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 3px solid #007acc;" alt="Angel Gonzalez">
+  <img src="https://iili.io/COoazs2.th.jpg" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 3px solid #007acc;" alt="Angel Gonzalez">
 
   <h1>¡Hola! Soy Angel Gonzalez 👋</h1>
 
@@ -30,7 +30,7 @@
 
   <!-- Contador de Visitas al Perfil de GitHub -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=LitDarKrx&color=007acc&style=for-the-badge&label=Visitas+al+Perfil" alt="Visitas GitHub">
+    <img src="https://komarev.com/ghpvc/?username=soylitdarkrx&color=007acc&style=for-the-badge&label=Visitas+al+Perfil" alt="Visitas GitHub">
   </p>
 
 </div>
