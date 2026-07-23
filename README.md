@@ -1,11 +1,13 @@
 <div align="center">
 
-  <!-- Imagen de perfil circular -->
-  <img src="https://iili.io/COoazs2.th.jpg" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 3px solid #007acc;" alt="Angel Gonzalez">
+  <!-- ========================================= -->
+  <!-- Encabezado / Banner del Perfil           -->
+  <!-- ========================================= -->
+  
+  <!-- Reemplazamos la foto de perfil y el texto h1 por un banner integrado con fondo -->
+  <img src="https://i.ibb.co/L9H8z6V/angel-gonzalez-banner.png" alt="¡Hola! Soy Angel Gonzalez. Software Developer | Mobile & Backend Engineering | Android Modding & UI Automation." width="100%" />
 
-  <h1>¡Hola! Soy Angel Gonzalez 👋</h1>
-
-  <p><b>Software Developer | Mobile & Backend Engineering | Android Modding & UI Automation</b></p>
+  <br>
 
   <!-- Badges de Lenguajes Principales -->
   <p>
