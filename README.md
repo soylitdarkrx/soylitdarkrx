@@ -7,11 +7,6 @@
 
   <p><b>Software Developer | Mobile & Backend Engineering | UI & System Automation</b></p>
 
-  <!-- Badge de Edad -->
-  <p>
-    <img src="https://img.shields.io/badge/Edad-XX%20a%C3%B1os-007acc?style=for-the-badge&logoColor=white" alt="Edad">
-  </p>
-
   <!-- Badges de Lenguajes Principales -->
   <p>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
@@ -20,22 +15,22 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   </p>
 
-  <!-- Redes Sociales y Contadores -->
+  <!-- Redes Sociales -->
   <p>
     <a href="https://youtube.com/@litdarkrx" target="_blank">
-      <img src="https://img.shields.io/youtube/channel/subscribers/UC... ?style=for-the-badge&label=YouTube&logo=youtube&logoColor=white&color=FF0000" alt="YouTube Subscribers">
+      <img src="https://img.shields.io/badge/YouTube-LitDarkRx-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
     </a>
     <a href="https://www.linkedin.com/in/angel-gonz%C3%A1lez-942030417" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://t.me/LitDarkRx_Ofc" target="_blank">
-      <img src="https://img.shields.io/telegram/channel/members/LitDarkRx_Ofc?style=for-the-badge&label=Telegram&logo=telegram&logoColor=white&color=26A5E4" alt="Telegram Members">
+      <img src="https://img.shields.io/badge/Telegram-LitDarkRx__Ofc-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>
   </p>
 
-  <!-- Contador de Visitas a tu Perfil de GitHub -->
+  <!-- Contador de Visitas al Perfil de GitHub -->
   <p>
-    <img src="soylitdarkrx" alt="Visitas GitHub">
+    <img src="https://komarev.com/ghpvc/?username=LitDarKrx&color=007acc&style=for-the-badge&label=Visitas+al+Perfil" alt="Visitas GitHub">
   </p>
 
 </div>
