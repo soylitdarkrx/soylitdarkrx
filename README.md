@@ -37,6 +37,20 @@
 
 ---
 
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=soylitdarkrx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="175" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soylitdarkrx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" height="175" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=soylitdarkrx&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+  </p>
+</div>
+
+---
+
 ## 🚀 Sobre mí
 
 * 🔭 **Especialidad:** Desarrollo móvil, integración de scripts y backend orientado al rendimiento.
@@ -55,13 +69,3 @@
 | **Backend & Base de Datos** | `PHP (APIs REST)` `MySQL` `SQL` `JSON / Webhooks` |
 | **Frontend & Web** | `JavaScript (ES6+)` `HTML5` `CSS3` |
 | **Herramientas & Entorno** | `Git` `GitHub` `VS Code` `Linux` |
-
----
-
-## 📌 Proyectos Destacados
-
-| Proyecto | Descripción | Lenguajes |
-| :--- | :--- | :--- |
-| **📱 Project System / Overlay** | Interfaz móvil avanzada con animaciones personalizadas y gestión de módulos. | `Java` `Lua` |
-| **🔐 Licensing Dashboard & API** | Sistema de autenticación de usuarios y gestión de claves con validación HWID. | `PHP` `MySQL` |
-| **🤖 Automation & Bot System** | Automatización de procesos y gestión de contenidos en tiempo real. | `PHP` `JavaScript` |
