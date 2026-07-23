@@ -41,9 +41,9 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=soylitdarkrx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="175" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soylitdarkrx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" height="175" />
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=soylitdarkrx&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soylitdarkrx&layout=donut&theme=tokyonight&hide_border=true" alt="Lenguajes" height="175" />
+</p>
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=soylitdarkrx&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
   </p>
