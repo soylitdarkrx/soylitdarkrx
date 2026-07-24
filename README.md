@@ -62,7 +62,7 @@
 
 | Categoría | Herramientas & Tecnologías |
 | :--- | :--- |
-| **Lenguajes** | `PHP` `Java` `Lua` `JavaScript` `C / C++` |
+| **Lenguajes** | `PHP` `Java` `Lua` `JavaScript` |
 | **Desarrollo Móvil & Overlays** | `Android SDK` `Java-Lua Bridge` `Floating Menus` `Custom Overlays` |
 | **Modding & Reverse Engineering** | `IL2CPP Analysis` `Memory Modification` `APK Modding` `Hooks & Automation` |
 | **Backend & Base de Datos** | `PHP (APIs REST)` `MySQL` `SQL` `JSON / Webhooks` |
