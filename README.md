@@ -50,6 +50,7 @@
 
 ## 🚀 Sobre mí
 
+* 🎂 **Edad:** [19] años
 * 🔭 **Especialidad:** Desarrollo móvil, modding/adaptación de software, integración de scripts y backend de alto rendimiento.
 * 🛠️ **Enfoque técnico:** Integración Java/Lua, custom overlays para Android, automatización de sistemas, APIs REST en PHP y desarrollo web.
 * ⚙️ **Modding & Reverse Engineering:** Personalización de aplicaciones, hooks, inyección de interfaces dinámicas y manipulación de memoria/runtime.
@@ -67,4 +68,4 @@
 | **Modding & Reverse Engineering** | `IL2CPP Analysis` `Memory Modification` `APK Modding` `Hooks & Automation` |
 | **Backend & Base de Datos** | `PHP (APIs REST)` `MySQL` `SQL` `JSON / Webhooks` |
 | **Frontend & Web** | `JavaScript (ES6+)` `HTML5` `CSS3` |
-| **Herramientas & Entorno** | `Git` `GitHub` `VS Code` `Linux` `Termux` |
+| **Herramientas & Entorno** | `GitHub` `Termux` |
