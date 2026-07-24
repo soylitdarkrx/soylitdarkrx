@@ -42,10 +42,6 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=soylitdarkrx&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas" height="175" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soylitdarkrx&layout=donut&theme=tokyonight&hide_border=true" alt="Lenguajes" height="175" />
-  </p>
-  <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=soylitdarkrx&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
   </p>
 </div>
